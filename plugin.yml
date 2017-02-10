@@ -46,4 +46,4 @@ permissions:
                 default: false
               iprotector.command.area.whitelist:
                 description: "Allows access to the iProtector whitelist subcommand."
-                default: op
+                default: false
